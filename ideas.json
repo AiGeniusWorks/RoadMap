@@ -1,0 +1,35 @@
+{
+  "ideas": [
+    {
+      "id": "1",
+      "title": "Implement dark mode",
+      "description": "Add a toggle for dark mode to improve user experience in low-light environments.",
+      "status": "in-progress",
+      "votes": 15,
+      "author": "John Doe",
+      "createdAt": "2023-05-15T10:30:00Z",
+      "comments": 3
+    },
+    {
+      "id": "2",
+      "title": "Mobile app development",
+      "description": "Create a mobile app version of our platform for iOS and Android.",
+      "status": "todo",
+      "votes": 20,
+      "author": "Jane Smith",
+      "createdAt": "2023-05-10T14:45:00Z",
+      "comments": 5
+    },
+    {
+      "id": "3",
+      "title": "Integration with Slack",
+      "description": "Develop a Slack integration to send notifications and updates directly to team channels.",
+      "status": "feedback",
+      "votes": 8,
+      "author": "Mike Johnson",
+      "createdAt": "2023-05-20T09:15:00Z",
+      "comments": 2
+    }
+  ]
+}
+
